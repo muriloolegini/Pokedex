@@ -1,0 +1,15 @@
+C:\Users\muril\OneDrive\Downloads\code\C#\Pokedex\PokedexConsole\bin\Debug\net6.0\PokedexConsole.exe
+C:\Users\muril\OneDrive\Downloads\code\C#\Pokedex\PokedexConsole\bin\Debug\net6.0\PokedexConsole.deps.json
+C:\Users\muril\OneDrive\Downloads\code\C#\Pokedex\PokedexConsole\bin\Debug\net6.0\PokedexConsole.runtimeconfig.json
+C:\Users\muril\OneDrive\Downloads\code\C#\Pokedex\PokedexConsole\bin\Debug\net6.0\PokedexConsole.dll
+C:\Users\muril\OneDrive\Downloads\code\C#\Pokedex\PokedexConsole\bin\Debug\net6.0\PokedexConsole.pdb
+C:\Users\muril\OneDrive\Downloads\code\C#\Pokedex\PokedexConsole\obj\Debug\net6.0\PokedexConsole.csproj.AssemblyReference.cache
+C:\Users\muril\OneDrive\Downloads\code\C#\Pokedex\PokedexConsole\obj\Debug\net6.0\PokedexConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\muril\OneDrive\Downloads\code\C#\Pokedex\PokedexConsole\obj\Debug\net6.0\PokedexConsole.AssemblyInfoInputs.cache
+C:\Users\muril\OneDrive\Downloads\code\C#\Pokedex\PokedexConsole\obj\Debug\net6.0\PokedexConsole.AssemblyInfo.cs
+C:\Users\muril\OneDrive\Downloads\code\C#\Pokedex\PokedexConsole\obj\Debug\net6.0\PokedexConsole.csproj.CoreCompileInputs.cache
+C:\Users\muril\OneDrive\Downloads\code\C#\Pokedex\PokedexConsole\obj\Debug\net6.0\PokedexConsole.dll
+C:\Users\muril\OneDrive\Downloads\code\C#\Pokedex\PokedexConsole\obj\Debug\net6.0\refint\PokedexConsole.dll
+C:\Users\muril\OneDrive\Downloads\code\C#\Pokedex\PokedexConsole\obj\Debug\net6.0\PokedexConsole.pdb
+C:\Users\muril\OneDrive\Downloads\code\C#\Pokedex\PokedexConsole\obj\Debug\net6.0\PokedexConsole.genruntimeconfig.cache
+C:\Users\muril\OneDrive\Downloads\code\C#\Pokedex\PokedexConsole\obj\Debug\net6.0\ref\PokedexConsole.dll
