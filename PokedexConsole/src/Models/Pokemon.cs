@@ -35,6 +35,7 @@ namespace PokedexConsole.src.Models
         {
             Console.WriteLine($"Name: {Name}");
             Console.WriteLine($"Description: {Description}");
+            Console.WriteLine("");
         }
     }
 }

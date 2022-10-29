@@ -27,11 +27,13 @@ namespace PokedexConsole.src.Models
             pokemons.Add(p);
         }
 
-        public void ListPokemon()
+        public void ListPokemons()
         {
             for (int i = 0; i < Pokemons.Count; i++)
             {
+                Console.WriteLine($"Code: {i}");
                 Pokemons[i].ViewPokemonData();
+                Console.WriteLine("");
             }
         }
     }
